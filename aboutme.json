@@ -85,6 +85,20 @@
         "OS X 10.10 Yosemite Installation USB",
         "Macintosh SE/30"
     ],
+    "favNewsSource": [
+        "https://apple.com/newsroom",
+        "https://9to5mac.com",
+        "https://macrumors.com",
+        "https://appleinsider.com",
+        "https://cultofmac.com",
+        "https://techcrunch.com",
+        "https://theverge.com",
+        "https://wired.com",
+        "https://arstechnica.com",
+        "https://engadget.com",
+        "https://windowscentral.com",
+        "https://basicappleguy.com"
+    ],
     "ohAndIForgot...": "Hatsune Miku is my waifu 🎤",
     "peaceOut": "👋🏼"
 }
