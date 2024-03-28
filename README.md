@@ -4,6 +4,7 @@
 - 🎨 My profile picture is Hatsune Miku.
 - 📫 You can reach me on Discord by friending "wearethelifersyetagain"
 - 🎥 Contact me at 17lifers@proton.me.
+- 🚫 I am against Big Tech (Google, Facebook, Microsoft, Oracle, TikTok, Facebook, Twitter, etc.)
 - 🏋️ Yesterday you said tomorrow, SO JUST DO IT!
 
 # FIND ME ELSEWHERE
