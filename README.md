@@ -1,7 +1,7 @@
 - :wave: Hi.
 - :computer: I like contributing to free and open-source software (FOSS) projects.
 - :art: My profile picture is Hatsune Miku.
-- :musical_note: vocaloid, hardstyle, speedcore
+- :musical_note: vocaloid, hardstyle, progressive house
 
 Good at HTML/CSS/JS, TailwindCSS, Typescript, Bootstrap, some Bash, tiny bit of Python, and Windows Batch scripting
 <!---
