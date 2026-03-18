@@ -3,7 +3,7 @@
 - :art: My profile picture is Hatsune Miku. I love Vocaloid and vtubers (neuro-sama, shirakami fubuki, nekomata okayu...)
 - :musical_note: vocaloid, melodic house, progressive house. See my SoundCloud and Spotify profiles.
 
-<p align="center">HTML/CSS/JS/Bootstrap/Tailwind CSS/Python/Windows Batch/Bash</p>
+<h3 align="center">HTML/CSS/JS/Bootstrap/Tailwind CSS/Python/Windows Batch/Bash</h3>
 
 ![image](https://github.com/user-attachments/assets/33f086e0-0264-41df-b405-5086ba6f4b8e)
 
