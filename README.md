@@ -1,6 +1,6 @@
-- :wave: Hi.
+- :wave: Hi, I go by 17lifers everywhere on the internet, but not here as I'm not changing this username.
 - :computer: I like contributing to free and open-source software (FOSS) projects.
-- :art: My profile picture is Hatsune Miku. I love anime illustrations set in the night.
+- :art: My profile picture is Hatsune Miku. I love Vocaloid and vtubers (neuro-sama, shirakami fubuki, nekomata okayu...)
 - :musical_note: vocaloid, hardstyle, progressive house
 
 HTML/CSS/JS/Bootstrap/Tailwind CSS/Python/Windows Batch/Bash
