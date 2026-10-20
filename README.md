@@ -1,7 +1,7 @@
 - :wave: Hi, I go by 17lifers everywhere on the internet, but not here as I'm not changing this username.
 - :computer: I like contributing to free and open-source software (FOSS) projects. Sometimes I create random stuff idk xd.
 - :art: My profile picture is Hatsune Miku. I love Vocaloid and vtubers (neuro-sama, shirakami fubuki, nekomata okayu...)
-- :musical_note: vocaloid, melodic house, progressive house. See my SoundCloud and Spotify profiles.
+- :musical_note: vocaloid, melodic house, progressive house. See my SoundCloud and Spotify profiles, alongside my vocadb "17lifers".
 - :raised_hands: contributed to freeCodeCamp, Windows Calculator, copy/v86, devos50/qemu-ios, monero gui, legcord
 
 <h3 align="center">HTML/CSS/JS/Bootstrap/Tailwind CSS/Python/Windows Batch/Bash</h3>
